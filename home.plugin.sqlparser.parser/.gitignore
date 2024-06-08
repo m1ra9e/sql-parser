@@ -1,0 +1,17 @@
+# Eclipse and IntelliJ IDEA folders/files
+
+/target/
+/.idea/
+*.iml
+
+##########
+
+# Application files
+
+.log
+
+##########
+
+# Temp files
+
+*.doc
